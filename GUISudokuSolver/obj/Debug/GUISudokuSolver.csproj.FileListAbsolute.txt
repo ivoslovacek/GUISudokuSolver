@@ -1,0 +1,9 @@
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\bin\Debug\GUISudokuSolver.exe.config
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\bin\Debug\GUISudokuSolver.exe
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\bin\Debug\GUISudokuSolver.pdb
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\obj\Debug\GUISudokuSolver.csprojAssemblyReference.cache
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\obj\Debug\GUISudokuSolver.Form1.resources
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\obj\Debug\GUISudokuSolver.Properties.Resources.resources
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\obj\Debug\GUISudokuSolver.csproj.GenerateResource.cache
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\obj\Debug\GUISudokuSolver.exe
+C:\Users\icewo\source\repos\GUISudokuSolver\GUISudokuSolver\obj\Debug\GUISudokuSolver.pdb
